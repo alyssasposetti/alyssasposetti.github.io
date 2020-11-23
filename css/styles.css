@@ -273,7 +273,7 @@ video {
 .h-3,
 .h-4,
 .h-5,
-.h-6, {
+.h-6 {
     grid-row: span 1;
 }
 
