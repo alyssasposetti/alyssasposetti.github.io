@@ -380,7 +380,7 @@ video {
 }
 .gallery-span {
     grid-template-columns: repeat(6, 1fr);
-    
+}
 
 .footer-nav {
     padding-top: 1rem;
